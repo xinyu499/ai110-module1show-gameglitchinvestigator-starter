@@ -1,4 +1,4 @@
-# 🎮 Game Glitch Investigator: The Impossible Guesser
+"# 🎮 Game Glitch Investigator: The Impossible Guesser
 
 ## 🚨 The Situation
 
@@ -33,6 +33,9 @@ It wrote the code, ran away, and now the game is unplayable.
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
 
+
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+
+<img src="images/games.png" alt="Winning game screenshot" width="600" />
